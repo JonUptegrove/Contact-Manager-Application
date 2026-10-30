@@ -105,4 +105,4 @@ This project provides practical experience with:
 
 ## License
 
-No open-source license has been selected for this project yet.
+This project is licensed under the MIT License.
